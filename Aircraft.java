@@ -3,7 +3,6 @@
  * Due: March 21, 2019 
  * This class calls calls on the classes Body and Tail, which 
  * then produces the two aircrafts with the color and the location
- * © Lauren Atkinson
  */
 
 import java.awt.Color;
