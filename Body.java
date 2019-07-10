@@ -3,7 +3,6 @@
  * Due: February 12, 2019 
  * Displays the body of the aircrafts including its shaping, coloring, and size, so
  * it can actually look like a body of an aircraft.
- * © Lauren Atkinson
  */
 import java.awt.Color;
 import java.awt.event.MouseEvent;
