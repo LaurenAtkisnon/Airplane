@@ -1,7 +1,3 @@
-/*
-* © Lauren Atkinson
-*/
-
 import java.awt.Color;
 
 public interface ColorChangable {
